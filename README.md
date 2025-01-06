@@ -1,6 +1,10 @@
-# music
+## Music Player using Flutter
 
-A new Flutter project.
+- A music player app implemented using flutter and dart.
+- Supports Android and IOS natively
+
+# Important
+Please add an "assets" folder in the root directory and 2 sub-folders for "audio" and "images"
 
 ## Getting Started
 
